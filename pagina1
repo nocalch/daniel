@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+ <html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+
+   <title> Practica 3 </title>
+  </head>
+   <body>
+    <header><h1>Mi Practica 3-Ceras Mendez Diego Daniel <br></h1></header>
+    <h2>Listas ordenadas y no ordenadas</h2>
+    <p>Esta práctica vamos acrear <em>listas</em> <strong> ordenadas y no ordenadas</strong><br></p>
+    <p>* Nota como algunas palabras se pone en <strong>negritas</strong>
+        Eso se logra con la etiqueta "strong".<br>
+        También lo podemos poner en formato de letra <em>italica</em> , lo cual se logra con la etiqueta "em".</p>
+        <h2>lista no ordenada</h2>
+        <p>A continuación se muestra una lista de las principales marcas de celulares, para ello
+            utilizaremos una lista no ordenada con la etiqueta: ul.</p>
+        <ul>
+            <li>Iphone</li>
+            <li>Samsung</li>
+            <li>Huawuei</li>
+            <li>Xiaomi</li>
+        </ul>
+        <h2>lista ordenada</h2>
+        <p>Ahora se muestra una lista de compañias de autos, para ello utilizaremos una lista no
+            ordenada con la etiqueta: ol.</p>
+        <ol>
+            <li>Ford</li>
+            <li>Chevrolet</li>
+            <li>Seat</li>
+            <li>Audi</li>
+        </ol>
+    
+    
+   </body>
+ </html>
